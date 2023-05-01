@@ -13,7 +13,7 @@ const style = {
       <div style={style}>
         <input
           disabled={disabled}
-          placeholder="TODOを入力"
+          placeholder="todoを入力"
           value={todoText}
           onChange={onChange}
         />
